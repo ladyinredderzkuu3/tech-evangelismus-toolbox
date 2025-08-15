@@ -10,5 +10,9 @@
   "devDependencies": {
     "live-server": "^1.2.1"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "localization": {
+    "de": "Inhalt in deutscher Sprache",
+    "en": "Content in English"
+  }
 }
