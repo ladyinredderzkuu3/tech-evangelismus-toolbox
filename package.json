@@ -14,5 +14,6 @@
   "localization": {
     "de": "Inhalt in deutscher Sprache",
     "en": "Content in English"
-  }
+  },
+  "readme": "# Tech Evangelismus Toolbox\n\nDieses Projekt ist ein interaktives Tool, das Jugendlichen hilft, die Chancen und Risiken der digitalen Welt zu verstehen und zu navigieren."
 }
