@@ -1,0 +1,14 @@
+{
+  "name": "tech-evangelismus-toolbox",
+  "version": "1.0.0",
+  "description": "Ein interaktives Tool zur Sensibilisierung von Jugendlichen für die Chancen und Risiken der digitalen Welt.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "license": "MIT"
+}
